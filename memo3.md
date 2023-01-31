@@ -3,6 +3,32 @@ Urbanization and Life Expectancy
 Bogdan G. Popescu
 January 30, 2023
 
+- <a href="#introduction" id="toc-introduction">Introduction</a>
+- <a href="#data-cleaning-and-analysis"
+  id="toc-data-cleaning-and-analysis">Data Cleaning and Analysis</a>
+  - <a href="#data-reading" id="toc-data-reading">Data reading</a>
+  - <a href="#renaming-variables" id="toc-renaming-variables">Renaming
+    variables</a>
+  - <a href="#selecting-literacy" id="toc-selecting-literacy">Selecting
+    literacy</a>
+  - <a href="#selecting-gdp" id="toc-selecting-gdp">Selecting gdp</a>
+  - <a href="#selecting-hospital-beds"
+    id="toc-selecting-hospital-beds">Selecting hospital beds</a>
+  - <a href="#selecting-democracy" id="toc-selecting-democracy">Selecting
+    democracy</a>
+  - <a href="#selecting-pop" id="toc-selecting-pop">Selecting pop</a>
+  - <a href="#performing-the-left-join"
+    id="toc-performing-the-left-join">Performing the left join</a>
+  - <a href="#excluding-irrelevant-countries"
+    id="toc-excluding-irrelevant-countries">Excluding irrelevant
+    countries</a>
+  - <a href="#focusing-on-relevent-years"
+    id="toc-focusing-on-relevent-years">Focusing on relevent years</a>
+- <a href="#interpretions" id="toc-interpretions">Interpretions</a>
+- <a href="#statistical-analysis"
+  id="toc-statistical-analysis">Statistical Analysis</a>
+- <a href="#conclusion" id="toc-conclusion">Conclusion</a>
+
 # Introduction
 
 Life expectancy is a measure of the average lifespan of a population. It
